@@ -9,7 +9,7 @@
 
 - 🤝 typically i need help **with common human things.**
 
-- 👨‍💻 most of my projects are available on https://waa.ai/uwuspin, or my repos
+- 👨‍💻 most of my projects are available on **https://waa.ai/uwuspin, or my repos**
 
 - 📫 ig if you must talk to me, my email is **spinfal@atheist.com**
 
