@@ -21,6 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spinfal&show_icons=true" alt="spinfal" /></p>
 
+<center><p><img src="https://files.catbox.moe/9yyby8.png" alt="scan me" width="269px" title="scan me now" /></p></center>
+
 <p align="center">
 <a href="https://twitter.com/uwuspin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uwuspin" height="30" width="30" /></a>
 <a href="https://instagram.com/spin.uwu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="spin.uwu" height="30" width="30" /></a>
