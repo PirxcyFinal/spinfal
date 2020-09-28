@@ -5,7 +5,7 @@
 
 - 🔭 currently im working on **being a normal human**
 
-- 🌱 im currently learning **more nodejs and javascript**
+- 🌱 im currently learning **new things, constantly**
 
 - 🤝 typically i need help **with common human things.**
 
