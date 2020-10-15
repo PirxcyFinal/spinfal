@@ -1,5 +1,5 @@
 <h1 align="center">hewo, im spin aka a dummy</h1>
-<h3 align="center">i like writing in mainly html, css, and javascript. i also like using other's code.</h3>
+<h3 align="center">i like writing in mainly html, css, and <strike>javascript</strike> python. i also like using other's code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spinfal" alt="spinfal" /> </p>
 
