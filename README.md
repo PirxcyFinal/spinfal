@@ -9,7 +9,7 @@
 
 - 🤝 typically i need help **with common human things.**
 
-- 👨‍💻 most of my projects are available on **~~https://waa.ai/spuwun~~** <br><sub>credits to zoony for the base layout</sub>
+- 👨‍💻 most of my projects are available on **https://waa.ai/spinpy** <br>
 
 - 📫 ig if you must talk to me, my email is **spinfal@atheist.com**
 
