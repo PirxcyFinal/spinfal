@@ -15,9 +15,9 @@
 
 - ⚡ fun fact? **im a furry**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfal&layout=compact&hide=html" alt="spinfal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinfal&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />" alt="spinfal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spinfal&show_icons=true" alt="spinfal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spinfal&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="spinfal" /></p>
 
 <center><p><img src="https://files.catbox.moe/9yyby8.png" alt="scan me" width="269px" title="scan me now" /></p></center>
 
