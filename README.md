@@ -1,9 +1,9 @@
 <h1 align="center">hi 👋, im spinfal</h1>
 <h3 align="center">an aspiring full stack developer, that has a lot of practice to do</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spinfal&label=Profile%20views&color=0e75b6&style=flat" alt="spinfal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spinfal&label=Profile%20views&color=0e75b6&style=flat" alt="spinfal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/uwuspin" target="blank"><img src="https://img.shields.io/twitter/follow/uwuspin?logo=twitter&style=for-the-badge" alt="uwuspin" /></a> </p>
+<p align="center"> <a href="https://twitter.com/uwuspin" target="blank"><img src="https://img.shields.io/twitter/follow/uwuspin?logo=twitter&style=for-the-badge" alt="uwuspin" /></a> </p>
 
 - 🔭 i’m currently working on **new things everyday**
 
