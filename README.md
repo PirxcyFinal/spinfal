@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, im spinfal</h1>
-<h3 align="center">an aspiring full stack developer, that has a lot of practice to do</h3>
+<h3 align="center">an aspiring full stack developer, that has a lot of practice & work to do</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spinfal&label=Profile%20views&color=0e75b6&style=flat" alt="spinfal" /> </p>
 
