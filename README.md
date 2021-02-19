@@ -8,7 +8,7 @@
 
 ---
 
-<img alt="ya" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F5821%2F23364f6757a5f3562a2419e71bccbc6ce80f0cde_hq.gif&f=1&nofb=1" width="400px" align="right"/>
+<img alt="ya" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Frikka-takanashi-gif-25.gif&f=1&nofb=1" align="right"/>
 
 #### Languages
 - ![python](https://img.shields.io/badge/-Python-FF008F)
