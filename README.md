@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-    <a href="https://discord.gg/qpskJCZRvp"><img src="https://img.shields.io/badge/-spin~_9999-FF008F?style=flat&logo=discord"/></a>
+    <a href="https://discord.gg/qpskJCZRvp"><img src="https://img.shields.io/badge/-spin~_5150-FF008F?style=flat&logo=discord"/></a>
     <a href="https://steamcommunity.com/id/_spxn"><img src="https://img.shields.io/badge/-_spxn-FF008F?style=flat&logo=steam"/></a>
     <a href="https://waa.ai/spinpy"><img src="https://img.shields.io/badge/-My_Website-FF008F?style=flat"/></a>
 </p>
