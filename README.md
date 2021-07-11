@@ -1,3 +1,6 @@
+[![EZ](https://img.shields.io/badge/EZ%20-Official%20EZ%20Staff-blue
+)]()
+
 <p align="center">
     <img height="100em" src="https://count.getloli.com/get/@:spinfal?theme=rule34"/>
 </p>
