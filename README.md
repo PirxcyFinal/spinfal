@@ -1,5 +1,7 @@
-[![EZ](https://img.shields.io/badge/EZ%20-Official%20EZ%20Staff-blue
-)]()
+[![ez](https://img.shields.io/badge/EZ%20-Official%20EZ%20Staff-blue)]()
+<p align="center">
+    <a href="https://ezfn.dev/discord"><button>Join EZFN</button></a>
+</p>
 
 <p align="center">
     <img height="100em" src="https://count.getloli.com/get/@:spinfal?theme=rule34"/>
@@ -7,6 +9,10 @@
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spinfal&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+    <a href="https://discord.gg/qpskJCZRvp"><img src="https://discord.c99.nl/widget/theme-4/308440976723148800.png"/></a>
 </p>
 
 ---
@@ -30,10 +36,6 @@
     <a href="https://discord.gg/qpskJCZRvp"><img src="https://img.shields.io/badge/-spin~_5150-FF008F?style=flat&logo=discord"/></a>
     <a href="https://steamcommunity.com/id/_spxn"><img src="https://img.shields.io/badge/-_spxn-FF008F?style=flat&logo=steam"/></a>
     <a href="https://waa.ai/spinpy"><img src="https://img.shields.io/badge/-My_Website-FF008F?style=flat"/></a>
-</p>
-
-<p align="center">
-    <a href="https://discord.gg/qpskJCZRvp"><img src="https://discord.c99.nl/widget/theme-4/308440976723148800.png"/></a>
 </p>
 
 > thanks [narumii](https://github.com/narumii) for this readme uwo
